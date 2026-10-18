@@ -2,3 +2,5 @@
 
 Tiny Python project used to test Orrial's staging end-to-end flow.
 Not a real application.
+
+Test
